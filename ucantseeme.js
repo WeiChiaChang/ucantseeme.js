@@ -3,7 +3,7 @@ var ucantseeme = function () {
   var john_cena_gif = 'https://weichiachang.github.io/ucantseeme/src/images/johncena.gif';
   var john_cena_bg = document.createElement('div');
 
-  function preloadImg(image) {
+  function preloadImg (image) {
     var img = new Image();
     img.src = image;
   }
@@ -23,7 +23,7 @@ var ucantseeme = function () {
     img.style.bottom = '-200px';
     img.style.zIndex = 999999;
 
-    document.body.appendChild(img)
+    document.body.appendChild(img);
 
     window.setTimeout(function () {
       img.style.bottom = '0px';

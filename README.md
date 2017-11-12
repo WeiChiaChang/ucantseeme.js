@@ -1,9 +1,14 @@
 ## ucantseeme
 
-> 👊 YOU CAN'T SEE ME
-> The greatest npm package of letting John Cena show in you screen.
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
+    <img alt="open-your-microphone" src="https://i.imgur.com/AkVRDCR.gif">
+  </a>
+</p>
 
-This is pretty serious stuff, here's a demo!
+> 👊 YOU CAN'T SEE ME
+
+Watch out, here's the greatest npm package that helps you see John Cena in you screen. This is pretty serious stuff with <b>special sounds effect</b> by saying <b>"John Cena"</b> this keyword.
 
 ## 🚨 Caveat
 At this stage, you have to use <b>Google Chrome</b> (version >  60 at least) for browsing since Web Speech API is an [experimental technology](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and other browsers still under implementation so far. You can check [caniuse](https://caniuse.com/#feat=speech-recognition) for more details.
