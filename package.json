@@ -1,8 +1,8 @@
 {
   "name": "ucantseeme",
-  "version": "0.1.50",
+  "version": "0.1.52",
   "description": "YOU CAN'T SEE ME",
-  "main": "ucantseeme.js",
+  "main": "src/ucantseeme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
