@@ -77,11 +77,11 @@ var ucantseeme = function () {
           // Play the music
           sound.play();
           setTimeout(function () {
-            // Stop the music after 9 secs
+            // Stop the music after 18 secs
             sound.pause();
-            // Remove john_cena_bg image after 9 secs
+            // Remove john_cena_bg image after 18 secs
             john_cena_bg.parentNode.removeChild(john_cena_bg);
-          }, 9000);
+          }, 18000);
         }, false);
 
         JohnCena_trigger(john_cena_data);
