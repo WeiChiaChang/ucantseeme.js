@@ -5,10 +5,16 @@
     <img alt="open-your-microphone" src="https://i.imgur.com/EYQixV8.gif">
   </a>
 </p>
+<p align=center>
+  <a target="_blank" href="https://npmjs.org/package/ucantseeme" title="NPM version"><img src="https://img.shields.io/npm/v/ucantseeme.svg"></a>
+  <a target="_blank" href="http://nodejs.org/download/" title="Node version"><img src="https://img.shields.io/badge/node.js-%3E=_6.0-green.svg"></a>
+  <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+  <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+</p>
 
 > 👊 YOU CAN'T SEE ME
 
-Watch out, here's the greatest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by saying **"John Cena"** this keyword.
+Watch out, here's the greatest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword.
 
 ## 🚨 Caveat
 At this stage, you have to use **Google Chrome** (version >  60 at least) for browsing since Web Speech API is an [experimental technology](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and other browsers still under implementation so far. You can check [caniuse](https://caniuse.com/#feat=speech-recognition) for more details.
