@@ -32,7 +32,13 @@ Installation
 $ npm install ucantseeme
 ```
 
-Usage
+#### **`require`** usage
+
+```javascript
+var ucantseeme = require('ucantseeme')
+```
+
+#### **`import`** usage
 
 ```javascript
 import ucantseeme from 'ucantseeme'
