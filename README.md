@@ -14,7 +14,7 @@
 
 > 👊 YOU CAN'T SEE ME
 
-Watch out, here's the greatest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword.
+Watch out, here's the finest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword. The reason why I want to build this tool since I'm both a big fan of John Cena and also a front-end developer, so why not do something special to pay my tribute to him with the code?
 
 ## 🚨 Caveat
 At this stage, you have to use **Google Chrome** (version >  60 at least) for browsing since Web Speech API is an [experimental technology](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and other browsers still under implementation so far. You can check [caniuse](https://caniuse.com/#feat=speech-recognition) for more details.
