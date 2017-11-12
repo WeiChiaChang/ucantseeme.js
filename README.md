@@ -26,7 +26,7 @@ Usage
 import ucantseeme from 'ucantseeme'
 ```
 
-Make sure to open your **Allow** site's usage of microphone :
+Make sure to **Allow** your site's usage of microphone :
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
@@ -36,9 +36,19 @@ Make sure to open your **Allow** site's usage of microphone :
 
 ## 🔧 Development
 
+It's simple to run, the following is step-by-step instruction.
+
+```javascript
+$ git clone https://github.com/WeiChiaChang/ucantseeme.git
+$ cd ucantseeme
+$ code .
+```
+
 ## 📝 Related Resources
 - [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection)
 - [Tutorialzine](https://tutorialzine.com/2017/08/converting-from-speech-to-text-with-javascript)
+- [Photo Credits](https://ambriegnsasylum16.deviantart.com/art/John-Cena-2016-Render-638552946)
+- [John Cena Intro (for MLG)](https://www.youtube.com/watch?v=4k1xY7v8dDQ)
 
 ## ©️ License
 MIT © [WeiChiaChang](https://github.com/WeiChiaChang)
