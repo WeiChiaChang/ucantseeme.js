@@ -1,6 +1,6 @@
 var ucantseeme = function () {
   var john_cena_data = 'https://weichiachang.github.io/easter-eggs-mobile/images/john-cena.png';
-  var john_cena_gif = 'https://i.imgur.com/PZ7qDox.gif';
+  var john_cena_gif = 'https://weichiachang.github.io/easter-eggs-mobile/johncena.gif';
   var john_cena_bg = document.createElement('div');
 
   function preloadImg (image) {
@@ -68,7 +68,7 @@ var ucantseeme = function () {
           john_cena_bg.style.top = 0;
           john_cena_bg.style.position = "fixed";
           john_cena_bg.style.zIndex = 9999;
-          john_cena_bg.style.backgroundImage = "url('https://i.imgur.com/PZ7qDox.gif')";
+          john_cena_bg.style.backgroundImage = "url('https://weichiachang.github.io/easter-eggs-mobile/johncena.gif')";
           john_cena_bg.style.backgroundRepeat = "no-repeat";
           john_cena_bg.style.backgroundSize = "cover";
           john_cena_bg.style.backgroundPosition = "center";
