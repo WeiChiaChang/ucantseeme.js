@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
-    <img alt="open-your-microphone" src="https://weichiachang.github.io/ucantseeme/src/images/john-cena.gif">
+    <img alt="open-your-microphone" src="https://i.imgur.com/AkVRDCR.gif">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Make sure to open your **Allow** site's usage of microphone :
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
-    <img alt="open-your-microphone" src="https://weichiachang.github.io/ucantseeme/src/images/speech.png">
+    <img alt="open-your-microphone" src="https://i.imgur.com/tfGf5cH.png">
   </a>
 </p>
 
