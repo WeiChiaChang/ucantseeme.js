@@ -9,7 +9,7 @@ var ucantseeme = function () {
   }
 
   preloadImg('https://weichiachang.github.io/happy-halloween/images/hatghost.gif');
-  preloadImg('./src/images/johncena.gif');
+  preloadImg('https://weichiachang.github.io/ucantseeme/src/images/johncena.gif');
   // preloadAudio('https://weichiachang.github.io/happy-halloween/images/halloween.mp3');
 
   var hatghost = function () {
@@ -73,7 +73,7 @@ var ucantseeme = function () {
           john_cena_bg.style.top = 0;
           john_cena_bg.style.position = "fixed";
           john_cena_bg.style.zIndex = 9999;
-          john_cena_bg.style.backgroundImage = "url('./src/images/johncena.gif')";
+          john_cena_bg.style.backgroundImage = "url('https://weichiachang.github.io/ucantseeme/src/images/johncena.gif')";
           john_cena_bg.style.backgroundRepeat = "no-repeat";
           john_cena_bg.style.backgroundSize = "cover";
           john_cena_bg.style.backgroundPosition = "center";
