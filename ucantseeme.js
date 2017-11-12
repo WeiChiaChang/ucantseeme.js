@@ -1,5 +1,5 @@
 var ucantseeme = function () {
-  var hatghost_data = 'https://weichiachang.github.io/happy-halloween/images/hatghost.gif'
+  var hatghost_data = 'https://weichiachang.github.io/ucantseeme/src/images/john-cena.png'
 
   var john_cena_bg = document.createElement('div');
 
@@ -8,7 +8,7 @@ var ucantseeme = function () {
     img.src = image;
   }
 
-  preloadImg('https://weichiachang.github.io/happy-halloween/images/hatghost.gif');
+  preloadImg('https://weichiachang.github.io/ucantseeme/src/images/john-cena.png');
   preloadImg('https://weichiachang.github.io/ucantseeme/src/images/johncena.gif');
   // preloadAudio('https://weichiachang.github.io/happy-halloween/images/halloween.mp3');
 
@@ -16,23 +16,24 @@ var ucantseeme = function () {
     var shock = document.createElement('div')
     var img = new Image()
     img.src = hatghost_data
-    img.style.width = '200px'
-    img.style.height = '240px'
-    img.style.transition = '20s all'
-    img.style.position = 'fixed'
-    img.style.left = '-200px'
-    img.style.top = '60px'
-    img.style.zIndex = 99999
+    img.style.width = '400px';
+    img.style.height = '500px';
+    img.style.transition = '10s all';
+    img.style.position = 'fixed';
+    img.style.left = 'calc(50% - 200px)';
+    img.style.bottom = '-200px';
+    img.style.zIndex = 999999;
 
     document.body.appendChild(img)
 
     window.setTimeout(function () {
-      img.style.left = 'calc(100% + 200px)'
-    }, 50)
+      img.style.bottom = '0px';
+    }, 30);
 
     window.setTimeout(function () {
-      img.parentNode.removeChild(img)
-    }, 20300)
+      img.style.bottom = '-600px';
+    }, 10300);
+
   }
 
   var hatghost_trigger = function (data) {
