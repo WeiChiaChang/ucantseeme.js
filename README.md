@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
-    <img alt="open-your-microphone" src="https://i.imgur.com/ggh5875.gif">
+    <img alt="open-your-microphone" src="https://i.imgur.com/EYQixV8.gif">
   </a>
 </p>
 
