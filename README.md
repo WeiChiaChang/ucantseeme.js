@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
-    <img alt="open-your-microphone" src="https://weichiachang.github.io/ucantseeme/src/images/john-cena.gif?raw=true">
+    <img alt="open-your-microphone" src="https://i.imgur.com/ggh5875.gif">
   </a>
 </p>
 
