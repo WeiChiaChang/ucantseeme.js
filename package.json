@@ -1,0 +1,23 @@
+{
+  "name": "ucantseeme",
+  "version": "0.1.0",
+  "description": "YOU CAN'T SEE ME",
+  "main": "ucantseeme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiChiaChang/ucantseeme.git"
+  },
+  "keywords": [
+    "john-cena",
+    "you-cant-see-me"
+  ],
+  "author": "WeiChiaChang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeiChiaChang/ucantseeme/issues"
+  },
+  "homepage": "https://github.com/WeiChiaChang/ucantseeme#readme"
+}
