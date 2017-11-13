@@ -1,7 +1,6 @@
   var john_cena_data = 'https://weichiachang.github.io/easter-eggs-mobile/images/john-cena.png';
   var john_cena_gif = 'https://weichiachang.github.io/easter-eggs-mobile/johncena.gif';
   var john_cena_bg = document.createElement('div');
-
   function preloadImg (image) {
     var img = new Image();
     img.src = image;
