@@ -1,6 +1,6 @@
 {
   "name": "ucantseeme",
-  "version": "0.1.52",
+  "version": "0.1.54",
   "description": "YOU CAN'T SEE ME",
   "main": "src/ucantseeme.js",
   "scripts": {
