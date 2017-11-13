@@ -10,7 +10,6 @@
   preloadImg(john_cena_data);
   preloadImg(john_cena_gif);
   
-
   var JohnCena = function () {
     var shock = document.createElement('div');
     var img = new Image();
