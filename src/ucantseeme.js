@@ -13,8 +13,10 @@ var ucantseeme = function () {
   preloadImg(john_cena_gif);
 
   var JohnCena = function () {
+
     var shock = document.createElement('div');
     var img = new Image();
+    
     img.src = john_cena_data;
     img.style.width = '400px';
     img.style.height = '500px';
