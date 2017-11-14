@@ -6,6 +6,7 @@
   </a>
 </p>
 <p align=center>
+  <a target="_blank" href="https://npmjs.org/package/ucantseeme" title="npm"><img src="https://img.shields.io/npm/dt/ucantseeme.svg"></a>
   <a target="_blank" href="https://npmjs.org/package/ucantseeme" title="NPM version"><img src="https://img.shields.io/npm/v/ucantseeme.svg"></a>
   <a target="_blank" href="http://nodejs.org/download/" title="Node version"><img src="https://img.shields.io/badge/node.js-%3E=_6.0-green.svg"></a>
   <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
