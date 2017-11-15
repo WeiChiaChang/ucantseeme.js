@@ -1,4 +1,4 @@
-## ucantseeme
+## ucantseeme.js
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
