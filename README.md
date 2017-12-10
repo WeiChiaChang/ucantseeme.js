@@ -17,15 +17,6 @@
 
 Watch out, here's the finest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword, you can see the [demo](https://weichiachang.github.io/ucantseeme.js/example/) here. The reason why I want to build this tool since I'm both a big fan of John Cena and also a front-end developer, so why not do something special to pay my tribute to him with the code?
 
-## 🚨 Caveat
-At this stage, you have to use **Google Chrome** (version >  60 at least) for browsing since Web Speech API is an [experimental technology](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and other browsers still under implementation so far. You can check [caniuse](https://caniuse.com/#feat=speech-recognition) for more details.
-
-<p align="center">
-  <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
-    <img alt="you-cant-see-me" src="https://pbs.twimg.com/media/A8zAkpiCYAA8bWF.jpg">
-  </a>
-</p>
-
 ## 🤔 How to Use
 Installation
 
@@ -62,6 +53,15 @@ $ git clone https://github.com/WeiChiaChang/ucantseeme.git
 $ cd ucantseeme
 $ code .
 ```
+
+## 🤔 Issues
+At this stage, you have to use **Google Chrome** (version >  60 at least) for browsing since Web Speech API is an [experimental technology](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) and other browsers still under implementation so far. You can check [caniuse](https://caniuse.com/#feat=speech-recognition) for more details.
+
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/ucantseeme">
+    <img alt="you-cant-see-me" src="https://pbs.twimg.com/media/A8zAkpiCYAA8bWF.jpg">
+  </a>
+</p>
 
 ## 📝 Related Resources
 
