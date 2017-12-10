@@ -13,7 +13,7 @@
   <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
 </p>
 
-Probably the finest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword, you can see the [demo](https://weichiachang.github.io/ucantseeme.js/example/) here. The reason why I want to build this tool since I'm both a big fan of John Cena and also a front-end developer, so why not do something special to pay my tribute to him with the code?
+Probably the finest npm package that helps you see John Cena in you screen. This is pretty serious stuff with **special sounds effect** by yelling **"John Cena"** this keyword, you can see the [demo](https://weichiachang.github.io/ucantseeme.js/example/) here. The reason why I want to build this tool since I'm both a big fan of John Cena and also a front-end developer, so why not do something special to pay my tribute to him with the code 😎
 
 ## 🤔 How to Use
 Installation
